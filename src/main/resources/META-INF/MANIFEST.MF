@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 1
+Bundle-Name: SUPNXP-12635-zipimport 
+Bundle-SymbolicName: org.nuxeo.sample.zipimport;singleton:=true
+Bundle-Version: 0.0.1
+Bundle-Vendor: Nuxeo
+Nuxeo-Component: OSGI-INF/extensions/org.nuxeo.sample.ImportZipFile.xml
